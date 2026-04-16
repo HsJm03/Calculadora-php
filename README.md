@@ -1,4 +1,4 @@
 # Calculadora-php
 Trabajo colaborativo para crear una calculadora con php, html y css 
 ## Descripción
-Calculadora desarrollada por el Desarrollador 1.
+Calculadora desarrollada por el Desarrollador 1 y el Desarrollador 2.
